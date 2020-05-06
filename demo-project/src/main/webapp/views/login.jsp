@@ -16,7 +16,7 @@
 		<table>
 			<tr>
 				<th>UserName</th>
-				<td><form:input path="userName" />
+				<td><form:input path="name" />
 			</tr>
 			<tr>
 				<th>Password</th>

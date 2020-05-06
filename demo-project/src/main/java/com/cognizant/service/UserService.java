@@ -21,4 +21,12 @@ public class UserService {
 		}
 	}
 
+	public Boolean insert(User user) {
+		if(userDao.insert(user)) {
+			return true;
+		}else {
+			return false;
+		}
+	}
+
 }

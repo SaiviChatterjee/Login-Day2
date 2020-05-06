@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Welcome</h1>
+<a href="register">Register User</a>
 </body>
 </html>
